@@ -29,8 +29,9 @@
 
 ## Usage
 
-<?php
 ```php
+<?php
+
 require 'vendor/autoload.php';
 
 greet();
