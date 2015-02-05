@@ -34,4 +34,4 @@
 require 'vendor/autoload.php';
 
 greet();
-``
+```
