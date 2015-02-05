@@ -8,7 +8,7 @@
         {
             "type": "package",
             "package": {
-                "name": "demo/composer",
+                "name": "demo/php",
                 "version": "dev-master",
                 "source": {
                     "url": "https://github.com/juanber84/composer-demo-package-php-simple.git",
@@ -22,7 +22,7 @@
         }
     ],
     "require": {
-        "demo/composer": "dev-master"
+        "demo/php": "dev-master"
     }
 }
 ```
