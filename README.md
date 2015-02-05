@@ -11,7 +11,7 @@
                 "name": "demo/composer",
                 "version": "dev-master",
                 "source": {
-                    "url": "https://github.com/juanber84/composer-demo-package-without-composer-json.git",
+                    "url": "https://github.com/juanber84/composer-demo-package-php-simple.git",
                     "type": "git",
                     "reference": "origin/master"
                 },
